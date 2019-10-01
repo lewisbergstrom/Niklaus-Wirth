@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+  <head>
+    <title>Niklaus Wirth</title>
+    <meta http-equiv="Content-Type"
+      content="text/html; charset=utf-8"/>
+	<link href="style1.css" rel="stylesheet" type="text/css"/>
+ </head>
+ <body>
+  <div id="header">
+    <div id="sitebranding">
+      <h1>Niklaus Wirth</h1>
+  </div>
+  <div id="tagline">
+   <p>Swiss Computer Scientist</p>
+  </div>
+</div> <!-- end of header div -->
+<div id="navigation">
+<ul>
+<li><a href="about.html">Home</a></li>
+<li><a href="quotes.html">Quotes</a></li>
+<li><a href="references.html">References</a></li>
+</ul>
+</div> <!-- end of navigation div -->
+<div id="bodycontent">
+  <h2>Quotes</h2>
+  <p><img src="Wirth.jpg"
+     alt="Niklaus Wirth"
+     width="300" height="200"/></p>
+	 <p style="font-style: italic">Software slows down faster than hardware speeds up.- <a href="https://en.wikipedia.org/wiki/Wirth%27s_law">Wirth's Law</a></p>
+     <p>This quote became later to be known as Wirth's Law. 
+     It means that no matter how fast our hardware 
+	 becomes, the software will find a way through bloat
+	 and complexity to slow it down.</p>
+  <p style="font-style: italic">In our profession, precision and perfection are not
+     a dispensable luxury, but a simple necessity. -<a href="http://www.eptacom.net/pubblicazioni/pub_eng/wirth.html">A Few Words with Niklaus Wirth</a></p>
+  <p>This is a straight forward statement about the 
+     importance of clean programming. It must be concise
+	 a readable from the start.</p>
+  <p style="font-style: italic">Reliable and transparent programs are usually not in the interest of the designer.- <a href="http://www.modulaware.com/mdlt/mdlt79.htm">
+     A Digital Contrarian Retires</a></p>
+  <p>Niklaus is saying that designers seek out problems to solve and improve.</p>
+ </div> <!-- end of bodycontent div -->
+</body>
+</html>
